@@ -1,6 +1,6 @@
 /**
-* Template Name: AgriCulture
-* Template URL: https://bootstrapmade.com/agriculture-bootstrap-website-template/
+* Template Name: Indo Climate Lab
+* Template URL: https://bootstrapmade.com/Indo Climate Lab-bootstrap-website-template/
 * Updated: Aug 07 2024 with Bootstrap v5.3.3
 * Author: BootstrapMade.com
 * License: https://bootstrapmade.com/license/
@@ -235,12 +235,12 @@ h6 {
 }
 
 .header .logo img {
-  max-height: 32px;
+  max-height: 60px;
   margin-right: 8px;
 }
 
 .header .logo h1 {
-  font-size: 30px;
+  font-size: 36px;
   margin: 0;
   font-weight: 700;
   color: var(--heading-color);
